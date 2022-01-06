@@ -79,7 +79,7 @@ T shirts and Shoes.</h5></li>
     return(
         <div className={styles.wrappermain} id="project">
             <div className={styles.wrapperhead}>
-                <h2>MY WORKS</h2>
+                <h2>MY PROJECTS</h2>
                 <hr/>
             </div>
             <div className={styles.wrapperproject}>
